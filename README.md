@@ -28,3 +28,7 @@ Automated vagrant provisioning of Windows 10 with flarevm tools installed for Di
    ```
 
 3. Wait for Vagrant and Virtualbox to do its magic and Start using!
+
+## Note
+
+You might come across ssh connection errors from vagrant up command. You can safely ignore them and proceed to virtualbox gui to start using the VM.
