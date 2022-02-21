@@ -6,12 +6,14 @@
 
 ## About The Project
 
-Automated vagrant provisioning of Windows 10 with flarevm tools installed for Digital Forensics and Malware Analysis Lab. [flare-vm tools](https://github.com/mandiant/flare-vm) is a powershell script originall developed by mandiant
+Automated vagrant provisioning of Windows 10 with flarevm tools installed for Digital Forensics and Malware Analysis Lab. [flare-vm tools](https://github.com/mandiant/flare-vm) is a powershell script originally developed by mandiant.
 
-## Requirements
+If you have a couple of devices with you and quickly want to spin up multiple virtual machines for blue team work, you've come to the right place! Find out more below.
+
+## Requirements (Must be installed)
 
 - [virtualbox](https://www.virtualbox.org/wiki/Downloads)
-- [vagrant](https://www.vagrantup.com/docs/installation)
+- [vagrant](https://www.vagrantup.com/downloads)
 
 ## How to use?
 
