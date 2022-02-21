@@ -39,7 +39,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.network :private_network, type: "dhcp"
   config.vm.hostname = VM_NAME
   config.vm.box_check_update = VM_UPDATE
-  config.ssh.insert_key = false
 
   config.vm.provider VIRTUALBOX do |vb|
     vb.name = VM_NAME
