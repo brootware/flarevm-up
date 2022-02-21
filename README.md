@@ -1,4 +1,4 @@
-# flare-up
+# flarevm-up
 
 <p align="center">
   <img width="300" height="300" src="https://raw.githubusercontent.com/mandiant/flare-vm/master/flarevm.png?raw=true" alt="FLARE VM"/>
