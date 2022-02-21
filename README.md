@@ -10,7 +10,7 @@ Automated vagrant provisioning of Windows 10 with flarevm tools installed for Di
 
 ## Requirements
 
-- [virtualbox](https://www.virtualbox.org/wiki/Downloads) OR [vmwarefusion](https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal)
+- [virtualbox](https://www.virtualbox.org/wiki/Downloads)
 - [vagrant](https://www.vagrantup.com/docs/installation)
 
 ## How to use?
