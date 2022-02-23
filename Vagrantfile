@@ -45,6 +45,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     vb.cpus = VM_CPUS
     vb.memory = VM_MEMORY
     vb.customize ["modifyvm", :id, "--vram", "256"]
-    vb.customize ["modifyvm", :id, "--accelerate3d", "on"]
+    # vb.customize ["modifyvm", :id, "--accelerate3d", "on"]
   end
 end
