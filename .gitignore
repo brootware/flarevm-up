@@ -1,3 +1,5 @@
+.dccache
+package.box
 # Ignoring sensitive files and directories.
 
 secret*.*
