@@ -8,14 +8,13 @@ packer {
 }
 
 source "vagrant" "flareVm" {
-  source_path           = "rootware/flareVm"
-  communicator          = "winrm"
-  winrm_username        = "vagrant"
-  winrm_password        = "vagrant"
-  winrm_timeout         = "2h"
+  source_path    = "rootware/flareVm"
+  communicator   = "ssh"
+  winrm_username = "vagrant"
+  winrm_password = "vagrant"
+  winrm_timeout  = "2h"
 }
 
 build {
   sources = ["sources.vagrant.flareVm"]
 }
-
